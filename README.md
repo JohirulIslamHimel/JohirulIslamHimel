@@ -4,11 +4,7 @@
 <h1 align="center">Hi 👋, I'm Johirul Islam</h1>
 <h3 align="center">Frontend Developer | SQA Engineer</h3>
 
-<p align="left"> 
-  <a href="https://github.com/JohirullsIamHimel">
-    <img src="https://github-profile-trophy.vercel.app/?username=JohirulIslamHimel&theme=radical" alt="Johirul's Trophies" />
-  </a> 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohirulIslamHimel" alt="johirulislamhimel" /></a> </p>
 
 - 🔭 I’m currently working on [book-vibe](https://github.com/JohirulIslamHimel/book-vibe)
 
