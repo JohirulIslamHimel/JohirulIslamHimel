@@ -39,13 +39,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohirullsclamHimel&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohirulIslamHimel&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohirullsclamHimel&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohirulIslamHimel&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohirullsclamHimel" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohirulIslamHimel" alt="GitHub streak stats" />
 </p>
